@@ -1,0 +1,100 @@
+{
+  "commit_sha": "b2a41b40b74328ac4ec79a144e3b2941cd52e931",
+  "platform": "ios",
+  "run_attempt": "1",
+  "run_id": "30716544536",
+  "screenshot_count": 18,
+  "screenshots": [
+    {
+      "filename": "01-online-authenticated.png",
+      "sha256": "034841d8ebf52710c8321af3aa4371a1c69885c2693fd12c6b8348d74e4cdf3d",
+      "size_bytes": 3015477
+    },
+    {
+      "filename": "02-offline-list.png",
+      "sha256": "a31e709da546a4f7f72d2fa09be74ec438e45f5da574924ae81ec59551f8623c",
+      "size_bytes": 107542
+    },
+    {
+      "filename": "03-offline-detail-stale.png",
+      "sha256": "f04e064f9f55d426f40e5c7c3f23a537d2d2fc1418befa82679cdc93c3bfbe69",
+      "size_bytes": 224900
+    },
+    {
+      "filename": "04-offline-cached.png",
+      "sha256": "f04e064f9f55d426f40e5c7c3f23a537d2d2fc1418befa82679cdc93c3bfbe69",
+      "size_bytes": 224900
+    },
+    {
+      "filename": "05-reconnect-success.png",
+      "sha256": "cdf73bc9be9c11a1452c1bee98887a6e614693b9b06f4d193c4f2b61e1ba7170",
+      "size_bytes": 107190
+    },
+    {
+      "filename": "06-pending-scalar-edit.png",
+      "sha256": "8cd7f58a68d00cc9e12a39d06b7d9cfec4b78bf9826e00eee6912e5fae870a62",
+      "size_bytes": 227373
+    },
+    {
+      "filename": "ios-i0-00-landing-after-launch.png",
+      "sha256": "f38579f39aa2ceadbde8ddf39490bb540db86f732a39bff630a4b0194e4f6ded",
+      "size_bytes": 55935
+    },
+    {
+      "filename": "ios-i0-01-after-sync.png",
+      "sha256": "cdf73bc9be9c11a1452c1bee98887a6e614693b9b06f4d193c4f2b61e1ba7170",
+      "size_bytes": 107190
+    },
+    {
+      "filename": "ios-i1-01-offline-local-edit.png",
+      "sha256": "37da1f1ff456ece4c4f39928fd53c1320926f1138592edd8b54f6c48c96af414",
+      "size_bytes": 230760
+    },
+    {
+      "filename": "ios-i1-02-conflict-card.png",
+      "sha256": "fa816f244a46042b2e383ebd3e3c365ae31012af501a1d0c410d4ad7b2a95b11",
+      "size_bytes": 243826
+    },
+    {
+      "filename": "ios-i1-03-after-use-server.png",
+      "sha256": "8acbdd3dbb18137954256887d10b6cc443795ef817d0f05a21e10c160b05b77a",
+      "size_bytes": 227728
+    },
+    {
+      "filename": "ios-i1-04-second-conflict.png",
+      "sha256": "076699c02a5e3c5aad7531f9aff339f7df5b2306b1aa7a4efb54abcea1a457e2",
+      "size_bytes": 246738
+    },
+    {
+      "filename": "ios-i1-05-keep-mine-still-pending.png",
+      "sha256": "638ea1b182646311ded0cfc48782ff9f1978d46c8bceb51bbe5f1423fdc3a5a3",
+      "size_bytes": 247830
+    },
+    {
+      "filename": "ios-i1-06-keep-mine-final.png",
+      "sha256": "2299126f26a64a82445f3dcb1b5357c5e4d322b447c990525301d2b0c08a36b1",
+      "size_bytes": 226050
+    },
+    {
+      "filename": "ios-i3-01-optimistic-value-before-sync.png",
+      "sha256": "db1688ff4be0c0dedeb7714e218830dc172a6181b51b17d7a78654c040b6304b",
+      "size_bytes": 212209
+    },
+    {
+      "filename": "ios-i3-02-rejection-notification.png",
+      "sha256": "60dfb8dbaaa362d6682c9d3d1472c29582c8068300cb74fa44b96a87971d1997",
+      "size_bytes": 348894
+    },
+    {
+      "filename": "ios-i3-03-original-value-restored.png",
+      "sha256": "4c3678b52c3ac491805480b04772c1ca1917bab49982ba97bace4ba4b0b3bcf5",
+      "size_bytes": 449385
+    },
+    {
+      "filename": "ios-i4-01-data-quality-warnings.png",
+      "sha256": "f6f0cd0ff78de90821a09bf554bfb6866330a1537ef84b3c2bbfffa501783bf0",
+      "size_bytes": 226632
+    }
+  ],
+  "workflow_ref": "toloka-partners/a-vc-stock-visor/.github/workflows/mobile-native.yml@refs/heads/STOC-296-txn-idempotency-concurrency"
+}
