@@ -1,0 +1,125 @@
+{
+  "commit_sha": "86835d6612149614cba21fbf129f081e579fd121",
+  "platform": "android",
+  "run_attempt": "1",
+  "run_id": "30726639828",
+  "screenshot_count": 23,
+  "screenshots": [
+    {
+      "filename": "screenshots/01-online-bootstrap.png",
+      "sha256": "2ccfb122be15f42afda8b01b919645374d7be8c48b74d2cb6f8916c43072295e",
+      "size_bytes": 15723
+    },
+    {
+      "filename": "screenshots/02-offline-list.png",
+      "sha256": "721ef59ecea675e6577955b3c2b9f83112cf32b33360a5f08e4db6bbd7f0af1b",
+      "size_bytes": 16693
+    },
+    {
+      "filename": "screenshots/03-offline-detail-stale.png",
+      "sha256": "42d5d99f1340fde59ce31c56a41c712b6687d6d35437b20ade22f88fcd2311f2",
+      "size_bytes": 37669
+    },
+    {
+      "filename": "screenshots/04-offline-cached-restart.png",
+      "sha256": "d2bdc2aa56698d0f9d48a6b17cf8065eb09c2b0f79edc0632c98ba69232c2fe4",
+      "size_bytes": 25482
+    },
+    {
+      "filename": "screenshots/05-reconnect-success.png",
+      "sha256": "5c68874ae731d25215b44e03ef2ea908b700a2c52cbcb49b1200d8ede363692c",
+      "size_bytes": 73594
+    },
+    {
+      "filename": "screenshots/06-pending-edits-and-trades.png",
+      "sha256": "8c7736dec1ba6b745cc05f085f911391a27ec5201fc22767868fecc95212ded5",
+      "size_bytes": 37281
+    },
+    {
+      "filename": "screenshots/07-rollback-message.png",
+      "sha256": "2f93ea6321bf5cb11a90e6166c7a1dfffb52a30d53a12f1f752e3cafe9de01ae",
+      "size_bytes": 34047
+    },
+    {
+      "filename": "screenshots/12-active-notification.png",
+      "sha256": "f8de7747f79ec18c6de41ed50f6b979f415364cb22a3eb6af20239c78825691c",
+      "size_bytes": 40332
+    },
+    {
+      "filename": "screenshots/i1-01-conflict-card.png",
+      "sha256": "e33ce80fb90c9f40db3fddd531a91095e5bcfef28ef19c0c17c7d71cde40aa56",
+      "size_bytes": 51445
+    },
+    {
+      "filename": "screenshots/i1-02-after-use-server.png",
+      "sha256": "2dcdabaa904eb3aa6024f9605c51e88c4c3f5e1a30ee2142680ce7fd4bb47e51",
+      "size_bytes": 45344
+    },
+    {
+      "filename": "screenshots/i1-03-keep-mine-still-pending.png",
+      "sha256": "31333fed611f62cb61a7bb5325fb878e4f591f2bf53c8883d70fab476914da47",
+      "size_bytes": 53451
+    },
+    {
+      "filename": "screenshots/i1-04-keep-mine-final.png",
+      "sha256": "279c4052a1f5c2d58ae6510d3f6faec9d5ec0d79689b7c5694ed447d3f7fc278",
+      "size_bytes": 43380
+    },
+    {
+      "filename": "screenshots/i2-01-offline-rename-skewed-clock.png",
+      "sha256": "166d19df3a38dd4cd50e9c6ae93e61597e5f9f4af6b7aca8600195988ba23c78",
+      "size_bytes": 47254
+    },
+    {
+      "filename": "screenshots/i2-02-conflict-with-skewed-clock.png",
+      "sha256": "05a5f84ea618792ffedab39ad82e6d850b6508d23a959da05f7fdcce80de4343",
+      "size_bytes": 50790
+    },
+    {
+      "filename": "screenshots/i3-01-optimistic-value-before-sync.png",
+      "sha256": "9f839df76405bdf4499e55d88fe3337a6384a9e259b1c9283b88cbfd95ad9ab4",
+      "size_bytes": 39638
+    },
+    {
+      "filename": "screenshots/i3-02-permanent-rejection-notification.png",
+      "sha256": "124a30eb23963740bb3576eb5b6630c88dab2af3825978de20efa2005b260249",
+      "size_bytes": 37296
+    },
+    {
+      "filename": "screenshots/i3-03-original-value-restored.png",
+      "sha256": "b07cbb63aa9418590a9662b9e3af273ba06a19a16842cdbfa0c3e3fefeed24f9",
+      "size_bytes": 47190
+    },
+    {
+      "filename": "screenshots/i4-01-data-quality-warnings.png",
+      "sha256": "76bcf90d0fafe42214363de580b761c7e2bfce0c2da8d935b258c0c230724132",
+      "size_bytes": 52463
+    },
+    {
+      "filename": "screenshots/i5-01-approximate-alert-offline.png",
+      "sha256": "a48068b41d3018e0ebc2ee9f36acb6668347a17665028a8bc318a02998ce2e3d",
+      "size_bytes": 34940
+    },
+    {
+      "filename": "screenshots/i5-02-confirmed-after-reconnect.png",
+      "sha256": "af429dfa1a155c983fb76a7fd412a8202611054b970c2d0cc8e3db64c1894b11",
+      "size_bytes": 24666
+    },
+    {
+      "filename": "screenshots/i5-03-corrected-after-reconnect.png",
+      "sha256": "5b54164a4d4585034babba5f32f5d2f2c0578e2cf5097501815982c3aec9ed51",
+      "size_bytes": 23039
+    },
+    {
+      "filename": "screenshots/i6-01-alerts-screen-online.png",
+      "sha256": "f5064b6ae33cb9e6d2381ffe01ffd39254306e44f0cb7dc301d8f63aef80d6df",
+      "size_bytes": 57934
+    },
+    {
+      "filename": "screenshots/i6-02-percentage-change-fired-offline.png",
+      "sha256": "5cc5b40b8b8324e08eff065a71411f66c0de68b1c9a42ca9b236032b7b43a3fa",
+      "size_bytes": 34165
+    }
+  ],
+  "workflow_ref": "toloka-partners/a-vc-stock-visor/.github/workflows/mobile-native.yml@refs/heads/STOC-296-txn-idempotency-concurrency"
+}
