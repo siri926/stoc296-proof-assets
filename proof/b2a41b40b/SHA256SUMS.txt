@@ -1,3 +1,0 @@
-f121033cd121dffd89d0c28995e912c6db0d714f7e93431209a3428bb2ba8f62  EVIDENCE.md
-354cc41c08bfec052265743731e3c28080aa056a06ca9acf8442fb650637d859  STOC-296-claude-full-conversation-b2a41b40b.md
-7aa9cfa919275f89278bf6e2b1cec586ee1c3f91fa71adf3a74d0be02f389de3  STOC-296-claude-full-conversation-b2a41b40b.zip
